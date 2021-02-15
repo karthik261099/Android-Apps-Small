@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347230932113",
+    "firebase_url": "https://react-burger-builder-a16c7.firebaseio.com",
+    "project_id": "react-burger-builder-a16c7",
+    "storage_bucket": "react-burger-builder-a16c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347230932113:android:6d6a940005e2eea181c330",
+        "android_client_info": {
+          "package_name": "com.kbrosapp.nimbleqecomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347230932113-35cpckq6p8db4621i9amrq7c42ribjdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbrosapp.nimbleqecomm",
+            "certificate_hash": "641dbf2dd9128d6bc14198ebbcf97bf931612e7c"
+          }
+        },
+        {
+          "client_id": "347230932113-hdcasuji7cotrnc2r0u0otlt4hrf1k8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnYTnY8ZEWB7FFvO55ePJSpDp_sQEeDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347230932113-hdcasuji7cotrnc2r0u0otlt4hrf1k8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
